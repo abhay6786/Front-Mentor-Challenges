@@ -27,7 +27,7 @@ main {
     border-radius: 10px;
 }
 
-.card h3 {
+.card h1 {
     padding: 10px;
     text-align: center;
     color: hsl(218, 44%, 22%);
